@@ -209,6 +209,13 @@ Note: Requires Windows Server 2016 or Windows 10 Creators Update
 
 ---
 
+## Default Networking options
+* Default to Container: All Open
+* Host dedicated: Use Firewall
+* Host ACS: Use Network Security Group
+
+---
+
 ## ACS Networking
 
 ---
