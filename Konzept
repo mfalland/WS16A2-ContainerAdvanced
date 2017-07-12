@@ -1,0 +1,25 @@
+Container Walkthrough
+
+* Repetition
+* Container on Windows
+    * Normal
+    * Hyper-V
+* Deploy image in Azure
+* Deploy Sample Container: 
+    * https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/quick-start-windows-server
+* Deploy more advanced Container: 
+    * https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/quick-start-images
+    * PowerShell into Image
+    * Stop w3svc
+    * Expose Website
+* Inspect image
+    * https://github.com/Microsoft/iis-docker
+* Networking
+    * https://docs.microsoft.com/en-us/virtualization/windowscontainers/manage-containers/container-networking
+* Kubernetes
+    * PDF Seite 12
+* Deploy a complete image in Azure Container Services, Kubernetes and OMS
+    * PDF Seite 22 bis 46
+    * PDF Seite 142 - Kubernetes WebUI
+* Evtl. CoScale
+    PDF Seite 158
